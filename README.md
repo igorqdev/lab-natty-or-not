@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# e-book Como Melhorar Sua Produtividade em 5 Passos ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+um e-book simples que nos mostra como podemos melhorar nossa produtividade de maneira simples com poucos passos
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+chatGPT para fazer o texto
+leonardoai para fazer a capa
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+pensei em fazer algo qe possa nos ajudar a ser mais produtivos e com a ajuda das ia pude estruturar o e-book de maneira mais organizada 
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+o texto feito pelo chatgpt e a capa pelo leonardo parecem realmente algo que um humano faria 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
